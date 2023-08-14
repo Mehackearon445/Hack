@@ -1,2 +1,3 @@
 # Hack
-Software
+proxy_user=<user>
+proxy_password=<password>
